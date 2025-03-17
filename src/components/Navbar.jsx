@@ -14,7 +14,7 @@ const Navbar = () => {
         </button>
 
         {/* Center - Logo */}
-        <div className="text-xl font-bold">LOGO</div>
+        <div className="text-xl font-bold">Homiqnest</div>
 
         {/* Right - Profile & Cart */}
         <div className="flex items-center gap-6">
