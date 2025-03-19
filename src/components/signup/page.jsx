@@ -4,7 +4,7 @@ import Image from "next/image";
 import { FcGoogle } from "react-icons/fc";
 import img from "../../../public/image.jpg";
 import { useRouter } from "next/navigation"; // Import useRouter for navigation
-import Home from "../main/Home";
+
 const SignUp = () => {
   const router = useRouter(); // Initialize the router
 
